@@ -7,7 +7,9 @@ Zykia Tinkler
 
 Roles:
 Landon - Coding and Testing
+
 Nhu - Project Manager
+
 Zykia- Coding and Testing
 
 Description: Our project is a pizza shop delivery/order system. You will be taken through the process of ordering food from a pizza shop 
