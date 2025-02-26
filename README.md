@@ -22,6 +22,6 @@ pizza, pick any amount of sides -pasta,wings- you want if any, be given the opti
 Once confirmed you will be given your total and after payment you will be given a time frame of when to expect your order.
 
 
-github: https://github.com/TeamPizzadilv/IS147Dilvery1.git
+
 
 
