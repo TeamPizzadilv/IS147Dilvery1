@@ -10,7 +10,7 @@ Roles:
 
 Landon - Coding and Testing
 
-Nhu - Project Manager
+Nhu Thao - Project Manager
 
 Zykia- Coding and Testing
 
