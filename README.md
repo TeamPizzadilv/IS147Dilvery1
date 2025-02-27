@@ -3,7 +3,7 @@ Project Name: "IS 147 Pizza Shop"
 Team Members:
 
 Landon Smith           
-Nhu Thao             
+Nhu Thao Nguyen            
 Zykia Tinkler        
 
 Roles:
