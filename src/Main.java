@@ -1,5 +1,5 @@
  /**
-         * This a main class to print and call all methods found
+         * This main class test code has been properly cloned and shared among the group
          * @author Zykia Tinkler
          */
 public class Main {
