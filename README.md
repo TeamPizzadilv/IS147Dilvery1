@@ -8,7 +8,7 @@ Zykia Tinkler
 
 Roles:
 
-Landon - Coding and Testing
+Landon - Main Coding and Testing
 
 Nhu Thao - Project Manager
 
