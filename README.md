@@ -10,9 +10,9 @@ Roles:
 
 Landon - Main Coding and Testing
 
-Nhu Thao - Project Manager
+Nhu Thao - Project Manager, help setting up java docs
 
-Zykia- Coding and Testing
+Zykia- Coding/ setting up the different classes and java docs explains what should be in each one to further understanding of whats need for the coder and Testing/ making sure the code is running properly
 
 Description:
 
