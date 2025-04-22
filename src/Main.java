@@ -9,6 +9,7 @@ public class Main {
         System.out.println("zykia");
         System.out.println("hello");
         System.out.println("this is practice 2");
+        System.out.println("this is practice 2");
 
     }
 }
